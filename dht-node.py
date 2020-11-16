@@ -1,6 +1,5 @@
 
 """
-COMP 3010 - Assignment 3
 Distributed Hash Table
 Programmed by Manasseh Banda
 """
